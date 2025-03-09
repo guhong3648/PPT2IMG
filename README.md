@@ -3,9 +3,9 @@
 Convert PowerPoint slides to images using Python.
 
 ## 📂 Project Structure
-PPT2IMG/ 
-├── src/    # Main source code 
-├── data/   # PPT files 
-├── res/    # Extracted images from PPT 
-└── done/   # Processed PPT files are moved here
+PPT2IMG/  
+├── src/    # Main source code  
+├── data/   # PPT files  
+├── res/    # Extracted images from PPT  
+└── done/   # Processed PPT files are moved here  
 
