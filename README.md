@@ -1,2 +1,11 @@
-"# PPT2IMG" 
-"# PPT2IMG" 
+# PPT 2 IMG
+
+Convert PowerPoint slides to images using Python.
+
+## 📂 Project Structure
+PPT2IMG/ 
+├── src/    # Main source code 
+├── data/   # PPT files 
+├── res/    # Extracted images from PPT 
+└── done/   # Processed PPT files are moved here
+
