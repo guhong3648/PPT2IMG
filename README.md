@@ -1,6 +1,6 @@
 # PPT 2 IMG
 
-Convert PPT of PDF to images using Python.
+Convert PPT or PDF to images using Python.
 
 ## 📂 Project Structure
 PPT2IMG/  
